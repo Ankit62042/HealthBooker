@@ -15,13 +15,9 @@ const AboutUs = () => {
           </div>
           <div className="hero-content">
             <p>
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Quibusdam tenetur doloremque molestias repellat minus asperiores
-              in aperiam dolor, quaerat praesentium. Lorem ipsum dolor sit amet
-              consectetur adipisicing elit. Voluptatibus, repudiandae! Lorem
-              ipsum dolor sit amet consectetur adipisicing elit. Provident
-              quibusdam doloremque ex? Officia atque ab dolore? Tempore totam
-              non ea!
+             Welcome to our revolutionary healthcare solution! At MediConnect, we're dedicated to transforming the way patients and doctors interact, making healthcare more accessible and convenient for everyone.
+           Our mission is simple: to bridge the gap between patients and healthcare providers by leveraging cutting-edge technology. Gone are the days of lengthy waits and difficult appointments. With our app, scheduling appointments is a breeze, and finding the perfect doctor for your needs is easier than ever.
+          We believe that everyone deserves quality healthcare, regardless of their location or circumstances. That's why we've created a platform that brings healthcare right to your fingertips. Whether you're seeking routine check-ups, specialized care, or simply need medical advice, our app connects you with experienced doctors who are ready to help.
             </p>
           </div>
         </div>
